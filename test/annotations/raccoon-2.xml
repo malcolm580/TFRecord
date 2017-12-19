@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raccoon</folder>
+	<filename>raccoon-2.jpg</filename>
+	<path>C:\Users\youma\Downloads\raccoon_dataset-master - test\images\raccoon\raccoon-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>47</ymin>
+			<xmax>468</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

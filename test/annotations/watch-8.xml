@@ -1,0 +1,26 @@
+<annotation>
+	<folder>watch</folder>
+	<filename>watch-8.jpg</filename>
+	<path>C:\Users\youma\Downloads\raccoon_dataset-master - test\images\watch\watch-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>129</width>
+		<height>219</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>128</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>
