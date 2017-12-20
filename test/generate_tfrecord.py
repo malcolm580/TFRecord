@@ -22,7 +22,7 @@ from collections import namedtuple, OrderedDict
 
 flags = tf.app.flags
 flags.DEFINE_string('csv_input', 'raccoon_labels.csv', 'Path to the CSV input')
-flags.DEFINE_string('output_path', 'train/train.record', 'Path to output TFRecord')
+flags.DEFINE_string('output_path', 'data/train.record', 'Path to output TFRecord')
 FLAGS = flags.FLAGS
 
 

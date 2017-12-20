@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 if __name__ == '__main__':
-    for serialized_example in tf.python_io.tf_record_iterator("train/train.record"):
+    for serialized_example in tf.python_io.tf_record_iterator("data/train.record"):
         example = tf.train.Example()
         example.ParseFromString(serialized_example)
 
